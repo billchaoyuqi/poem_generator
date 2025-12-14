@@ -1,0 +1,1 @@
+This repository is intended to preserve the code for my undergraduate thesis, a poetry generator. Two large files—the vocabulary list and the final checkpoint file—could not be uploaded. If needed, generation should be executable within the code.
